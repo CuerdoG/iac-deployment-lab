@@ -185,8 +185,8 @@ Costes operativos mensuales de TI: **≈ 15 €/mes** (dominio + backup en nube)
 
 ## Autoras
 
-- **Joseanía González Cuerdo** - (https://github.com/CuerdoG)
 - **Iria Barciela Cabaleiro** - (https://github.com/IriaBarciela) 
+- **Joseanía González Cuerdo** - (https://github.com/CuerdoG)
 
 Proyecto de Fin de Ciclo · ASIR · 2026
 
